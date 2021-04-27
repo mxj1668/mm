@@ -22,7 +22,7 @@ on:
         default: 'wxtz-actions'
       release:
         description: '发布固件'
-        required: true
+        required: false
         default: 'release-actions'
 
 
